@@ -67,6 +67,10 @@ This app is a simple educational quiz that uses images and associated questions 
   * Maintenance: List length is fixed in some comparisons. Using `length` of list always ensures flexibility if more questions are added.
   * UI Optimization: Transition between questions could be optimized with `smoother visual feedback`.
 
+## Reflection
+Making this app was a bit of a challenge for me, as I am an exchange student, to research a completely new culture, but at the same time this is one of the goals I had planned to learn about, the different cultures that exist here in Canada. But speaking more about technical issues, I think that for me the challenge was to learn how to program in blocks and also try to do an analysis or debug of the application, since there is no tool that makes it easier for you, you are forced to fully understand your application and what it requires for it to work the way it should.
+
+
 ## Resources used
 
 https://ihosgallery.com/collections/masks-carvings
